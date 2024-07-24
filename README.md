@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Smart Tale
 
-## Getting Started
+Smart Tale - это веб-приложение для мониторинга и управления швейным производством.
 
-First, run the development server:
+## Используемые технологии
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+В проекте использовались следующие технологии:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- React
+- TypeScript
+- Next JS
+- Zustand
+- React Query
+- Jest
+- React Testing Library
+- FSD
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Установка
 
-## Learn More
+1. **Установите Node.js и Yarn**
 
-To learn more about Next.js, take a look at the following resources:
+   Node.js и Yarn (пакетный менеджер) необходимы для установки и использования Vite, React и других библиотек. Вы можете скачать их с официального сайта Node.js и Yarn.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+2. **Склонируйте проект**
 
-## Deploy on Vercel
+   Используйте git для клонирования вашего проекта на вашу машину.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. **Установите зависимости**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   Перейдите в каталог проекта и установите необходимые зависимости с помощью Yarn:
+
+   ```
+   yarn
+   ```
+
+4. **Запустите проект**
+
+   После установки всех зависимостей вы можете запустить проект с помощью команды:
+
+   ```
+   yarn dev
+   ```
+
+## Использование
+
+После запуска проекта, вас встретит главная страница, если у вас уже есть аккаунт, можете залогиниться.
+
+Главная страница.
+
+![image](https://github.com/nurlanov0105/smart-tale/assets/126797112/8a817e49-a29e-4168-9cc9-d527e21bc947)
+
+
+Страница логина.
+
+![image](https://github.com/nurlanov0105/smart-tale/assets/126797112/badf8c23-6f22-4b46-866a-8e78db92017b)
+
+
+## Вклад
+
+Кто хочет помочь в развитии данного проекта, можете написать мне в телеграм: @nnnNursultan
+
+## Авторы
+
+https://github.com/nurlanov0105/
+
+https://github.com/PranovAdilet
